@@ -1,0 +1,28 @@
+name: New York City Worthy
+favicon: null
+layout_spectrum: 0.37252637278288603
+typography_spectrum: 0.5613904059864581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8940231176093221
+  lightness: 0.1989411562681198
+  saturation: 0.9328185138292611
+  rhythmicContrast: 0.7191309116315097
+purpose: []
