@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[New York City Worthy]]></title>
+        <description><![CDATA[New York City Worthy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 21:45:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba5f3fa6-3240-4bf3-b148-794ce4d17750.jpg">]]></description>
+            <link>undefinedhttpswwwnewyorkcaresorgour-story/index.html</link>
+            <guid isPermaLink="false">6c37be28-c5fc-45c3-a0fd-a0022846daba</guid>
+            <pubDate>Thu, 24 Mar 2016 21:44:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
