@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'https://www.newyorkcares.org/our-story'
-datePublished: '2016-03-24T21:44:24.576Z'
-dateModified: '2016-03-24T21:44:03.823Z'
+description: New York Cares
+datePublished: '2016-03-24T21:54:51.115Z'
+dateModified: '2016-03-24T21:54:26.957Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-24-httpswwwnewyorkcaresorgour-story.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-httpswwwnewyorkcaresorgour-story.md
-published: true
 url: httpswwwnewyorkcaresorgour-story/index.html
 _type: Article
 
